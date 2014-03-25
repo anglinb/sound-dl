@@ -1,0 +1,4 @@
+*.DS_Store
+python-dl/env/*
+python-dl/complete/*
+python-dl/tmp/*
